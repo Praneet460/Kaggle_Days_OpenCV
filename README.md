@@ -19,6 +19,7 @@ This repository contains the code explained during the talk, as well as the slid
 - [Get Started with Data Visualization](https://github.com/Praneet460/DataVisualizationPyDelhi)
 - [Get Started with TensorFlow](https://github.com/Praneet460/MLCC)
 - [Download OpenAcademy Android Application and start learning from free resources](https://play.google.com/store/apps/details?id=in.paperwrk.openacademyapp&hl=en)
+- [Free OpenCV Book](./OpenCV_Book/opencv-python-tutroals-book.pdf)
 
 ## Issues
 Feel free to submit issues and enhancement requests.
